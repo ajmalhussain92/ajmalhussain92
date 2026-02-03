@@ -100,12 +100,6 @@ const Ajmal = {
 
 ## Projects
 
-|<img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1741603916/Screenshot_2025-03-10_at_4.18.36_PM_tgwplb.png"/>| <img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1741166557/Screenshot_2025-03-05_at_2.48.51_PM_sxnozm.png"/>|<img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1763439540/Screenshot_2025-11-18_at_9.34.58_AM_vwsoe6.png"/>| 
-|-------------|-------------|---|
-|<br> [Jobmentum Demo](https://) |<br> [Tic-Tac-Toe Demo](https://) |<br> [MernFolio Demo](https://) |
-|[View Repository](https://github.com/)|[View Repository](https://github.com/)|[View Repository](https://github.com/)|
-| A MERN-based job portal enabling job seekers and recruiters to manage applications via secure dashboards.| An interactive browser-based Tic Tac Toe game with win detection and reset functionality.| A MERN_based Portfolio builder designed for users who want to create their personal portfolio websites.|
-
 <br/>
 
 <details>
