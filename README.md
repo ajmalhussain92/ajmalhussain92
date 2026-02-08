@@ -173,7 +173,7 @@ const Ajmal = {
 </br>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769898357/Ajma222_emdj1p.jpg" width="500" style="border-radius: 50%;">
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1770520154/Final_Edit_Gorge_vuigf3.jpg" width="500" style="border-radius: 50%;">
   <br/>
   <em>When your code compiles and so does your personality 🌟</em>
 </p>
