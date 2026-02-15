@@ -147,22 +147,22 @@ const Ajmal = {
 ## My GitHub Pets
 
 <a href="https://github.com/ajmalhussain92/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav" width="5000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/ajmalhussain92" width="5000" height="120"/>
 </a>
 
 
 <a href="https://github.com/ajmalhussain92/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav?pet-id=698387297160483684" width="1200" height="200"/>
+  <img src="https://render.gitanimals.org/lines/ajmalhussain92?pet-id=698387297160483684" width="1200" height="200"/>
 </a>
 
 
 <a href="https://github.com/ajmalhussain92/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav?pet-id=698387297160483685" width="1200" height="260"/>
+  <img src="https://render.gitanimals.org/lines/ajmalhussain92?pet-id=698387297160483685" width="1200" height="260"/>
 </a>
 
 ## Current Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
-![Visits Badge](https://profile-counter.deno.dev/:Priyasha-Yadav:/count.svg)
+![Visits Badge](https://profile-counter.deno.dev/:ajmalhussain92:/count.svg)
 
 <!---
 <a href="https://app.daily.dev/priyashayadav"><img src="https://api.daily.dev/devcards/v2/1Lf1eC3xtm6yG7SuAA0Bt.png?type=wide&r=dgy" width="652" alt="Priyasha Yadav's Dev Card"/></a>
